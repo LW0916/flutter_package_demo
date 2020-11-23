@@ -1,8 +1,8 @@
 name: flutter_package_demo
-description: A new Flutter package.
+description: A new Flutter package lwtest.
 version: 0.0.1
-author:
-homepage:
+author: chase<zglinwei_0916@163.com>
+homepage: https://github.com/LW0916/flutter_package_demo
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
